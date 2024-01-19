@@ -1,0 +1,38 @@
+{
+
+  "results": [
+
+    {
+
+      "id": 1,
+
+      "ad": "John",
+
+      "soyad": "Doe"
+
+    },
+
+    {
+
+      "id": 2,
+
+      "ad": "Jane",
+
+      "soyad": "Smith"
+
+    },
+
+    {
+
+      "id": 3,
+
+      "ad": "Alice",
+
+      "soyad": "Johnson"
+
+    }
+
+    // ... Diğer sorgu sonuçları
+
+  ]
+
